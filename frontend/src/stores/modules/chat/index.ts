@@ -28,10 +28,42 @@ export const useChatStore = defineStore(
         label: 'Bing 官方',
       },
       {
-        baseUrl: 'https://sydney.vcanbb.chat',
-        label: 'Cloudflare',
+        baseUrl: 'https://bing.nothingnessvoid.tech',
+        label: 'nothingnessvoid',
       },
       {
+        baseUrl: 'https://ai.nothingnessvoid.tech',
+        label: 'nothingnessvoid1',
+      },
+      {
+        baseUrl: 'https://vercel.nbing.eu.org',
+        label: 'vercel.nbing',
+      },
+       {
+        baseUrl: 'https://replit.nbing.eu.org',
+        label: 'replit.nbing',
+      },
+       {
+        baseUrl: 'https://bing.smallfang.us',
+        label: 'bing.smallfang',
+      },
+       {
+        baseUrl: 'https://chat.bing.xinxin2021.tk',
+        label: 'xinxin2021',
+      },
+       {
+        baseUrl: 'https://cfwk.nbing.eu.org',
+        label: 'cfwk.nbing',
+      },
+       {
+        baseUrl: 'https://bing.lokou.eu.org',
+        label: 'lokou',
+      },
+       {
+        baseUrl: 'https://b.xkwjyu.xyz',
+        label: 'xkwjyu',
+      },
+       {
         baseUrl: location.origin,
         label: '本站',
       },
